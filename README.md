@@ -1,4 +1,4 @@
-|[logo](https://github.com/rahulit220104/rahulit220104/blob/main/RAHUL%20KUMAR.png?raw=true)
+![logo](https://github.com/rahulit220104/rahulit220104/commit/e7fff8c45cac4495e5cf3f1774929dc02a64c7ba)
 <h1 align="center">Hi 👋, I'm Rahul Mauriya</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
